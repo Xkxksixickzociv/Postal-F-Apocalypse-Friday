@@ -149,7 +149,7 @@
 				267
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 6,
 			"anim": "attack",
 			"indices": [],
 			"name": "boyfriend attack"
